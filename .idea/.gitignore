@@ -1,0 +1,10 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+AlienInvasion.iml
+misc.xml
+modules.xml
+profiles_settings.xml
+Project_Default.xml
+vcs.xml
+venv
